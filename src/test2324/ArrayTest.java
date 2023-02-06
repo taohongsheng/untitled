@@ -1,5 +1,5 @@
 package test2324;
-
+//数组初识
 public class ArrayTest {
     public static void main(String[] args) {
         int num;
